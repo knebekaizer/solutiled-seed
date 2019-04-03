@@ -1,5 +1,30 @@
+<<<<<<< Updated upstream
 #h1 Vladimir Ivanov
 
+=======
+<<<<<<< Local Changes
+## Vladimir Ivanov
+=======
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
+>>>>>>> External Changes
+
+<<<<<<< Local Changes
+
+### Summary ###
+
+*	Over 25 years of experience in software development and engineering.
+*	Software developer, team lead and software architect. Providing technical leadership as well as individual contribution.
+*	Specialties: Embedded systems, Java VM, JIT compilers, optimizing compilers, Linux middleware, storage systems, distributed systems, image
+ processing.
+
+### Education ###
+
+1978 - 1984  
+Leningrad Polytechnical Institute (now St.Petersburg State Polytechnical University). 
+=======
+
+<h1>Vladimir Ivanov</h1>
+>>>>>>> Stashed changes
 <h2>Summary</h2>
 <ul>
 <li>Over 25 years of experience in software development and engineering.</li>
@@ -12,62 +37,56 @@ compilers, Linux middleware, storage systems, distributed systems, image
 <h2>Education</h2>
 <dl><dt>1978 - 1984</dt><dd>
 Leningrad Polytechnical Institute (now St.Petersburg State Polytechnical University) <br> 
+>>>>>>> External Changes
 Department of Physics and Mechanics (MS in Physics, diploma with honor)  
-</dd></dl>
-<dl><dt>1984 - 1987</dt><dd>
-Leningrad Polytechnical Institute, <br>
+	
+1984 - 1987  
+Leningrad Polytechnical Institute. 
 Postgraduate Studies, Dept. of Theoretical and Mathematical Physics  
-</dd></dl>
-<h2>Professional certificates</h2>
 
-<dl><dt>2000</dt><dd>
-Apple MacOS software developer <br>
-Apple system engineer  
-</dd></dl>
 
-<h2>Experience</h2>
+### Experience
 
-<dl><dt>May 2018 - present</dt><dd>
-Social Quantum (<a href="http://www.socialquantum.com/ target="_blank">http://www.socialquantum.com/</a>)<br>
-CTO<br>
-Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly responsible for Development, QA and IT departments. Migrating the company from custom processes and in-house solutions to the industrial standards: fixed and established production release cycle and relevant processes, launched CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing particular product group or department (sort of crisis management).
-</dd></dl>
+**May 2018 - present**  
+[**Social Quantum**](http://www.socialquantum.com/)  
+**CTO**  
+Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly responsible for Development, QA and IT departments.   
+Migrating the company from custom processes and in-house solutions to the industrial standards: fixed and established production release cycle and relevant processes, launched CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc.  
+Occasionally managing particular product group or department (sort of crisis management).
 
-<dl><dt>Feb 2014 - May 2018</dt><dd>
-Zodiac Interactive (<a href="http://www.zodiac.tv/" target="_blank">http://www.zodiac.tv/</a>)<br>
-RnD Director, architect.<br>
-Driving software production from design and implementation to release management and maintenance.<br>
+
+**Feb 2014 - May 2018**  
+[**Zodiac Interactive**](http://www.zodiac.tv/)   
+**RnD Director, architect**   
+Driving software production from design and implementation to release management and maintenance.  
 This includes customer communication with respect to requirement gathering, driving the architecture board, planning and estimations, code review and overseeing of solution consistency, quality assurance strategy, release preparation, occasional coding, prototyping or bug fixing. Supervised projects are varying from research and proof of the concept of front-edge technology to high profile production targeted to 10M end users. The current focus is on embedded Linux software, HTML5 stack for resource constrained devices, IP video, etc.
-</dd></dl>
 
-<dl><dt>June 2013 - Feb 2014</dt><dd>
-Motorola Solutions<br>
-Principal staff engineer, Senior architect.<br>
-Push-to-talk Android client and server integration<br>
+**June 2013 - Feb 2014**  
+**Motorola Solutions**  
+**Principal staff engineer, Senior architect**  
+Push-to-talk Android client and server integration.  
 Prototyping the distributed service based on peer-to-peer concept for fault tolerance and high performance data storage and processing (research project).
-</dd></dl>
 
-<dl><dt>July 2011 - June 2013</dt><dd>
-Zodiac Interactive (<a href="http://www.zodiac.tv/" target="_blank">http://www.zodiac.tv/</a>)<br>
-Head of Framework and UI Solutions department.<br>
-Architecture and implementation of software stack for interactive TV services from middleware to application layer.<br>
+**2011 - 2013**  
+[**Zodiac Interactive**](http://www.zodiac.tv/)   
+**Head of Framework and UI Solutions department**  
+Architecture and implementation of software stack for interactive TV services from middleware to application layer.  
 Embedded systems, set top box, virtual machine, compiler, development tools and emulation environment. 
-</dd></dl>
 
-<dl><dt>2009 - 2011</dt><dd>
-Yandex (Russian IT company, the largest search engine in Russia)<br>
-Senior engineer, SW developer <br>
+**2009 - 2011**  
+**Yandex** (Russian IT company, the largest search engine in Russia)  
+**Senior engineer, SW developer**  
 Internet search related service development<br>
-Responsible for the service backend architecture, implementation and maintenance (C++). <br>
+Responsible for the service backend architecture, implementation and maintenance (C++).  
 Distributed data processing, clusterization, monitoring, DBMS (MySQL).
-</dd></dl>
 
-<dl><dt>2007 - 2009</dt><dd>
-EMC<sup>2</sup> Center of Excellence, St.Petersburg, Russia <br>
-Principal engineer, team lead <br>
-Platform development for the perspective storage system: middleware, services, application framework. <br> 
+**2007 - 2009**  
+EMC<sup>2</sup> Center of Excellence, St.Petersburg, Russia  
+Principal engineer, team lead  
+Platform development for the perspective storage system: middleware, services, application framework.   
 Responsible for component level design and coding, local team technical leadership (5 team members). 
-</dd></dl>
+
+
 <dl><dt>2000 - 2007</dt><dd>
 Motorola Software Group Russia <br> 
 
