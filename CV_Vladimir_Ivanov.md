@@ -109,7 +109,7 @@ Responsible for GUI, image processing and other tasks.
 </dd></dl>
 
 <dl><dt>1984-1990</dt><dd>
-Leningrad Polytechnical Institute, Dept. of Theorethical and Mathemathical Physics <br>
+Leningrad Polytechnical Institute, Dept. of Theoretical and Mathematical Physics <br>
 Postgraduate, engineer, researcher. <br>
 Computer physics (plasma modelling) 
         
