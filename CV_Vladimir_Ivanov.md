@@ -4,7 +4,7 @@
 <h1>Vladimir Ivanov</h1>
 <h2>Summary</h2>
 <ul>
-<li>Over 25 years of experience in the technology industry, software development and engineering.</li>
+<li>Over 25 years of experience in software development and engineering.</li>
 <li>Software developer, team lead and software architect. Providing technical leadership as well as individual contribution.</li> 
 <li>Specialties: Embedded systems, Java VM, JIT compilers, optimizing 
 compilers, Linux middleware, storage systems, distributed systems, image
