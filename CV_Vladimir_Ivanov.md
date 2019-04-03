@@ -18,7 +18,7 @@ Department of Physics and Mechanics (MS in Physics, diploma with honor)
 </dd></dl>
 <dl><dt>1984 - 1987</dt><dd>
 Leningrad Polytechnical Institute, <br>
-Postgraduate Studies, Dept. of Theorethical and Mathemathical Physics  
+Postgraduate Studies, Dept. of Theoretical and Mathematical Physics  
 </dd></dl>
 <h2>Professional certificates</h2>
 
@@ -92,7 +92,7 @@ Design proposal and prototyping of the low-cost version of kJava VM.
 </li></ul><ul><li>2000 <br> 
 JavaTV application - developer  
 </li></ul><dl><dt>1995 - 2000</dt><dd>
-"ZAO Jupiter-Z" <br>
+Jupiter-Z <br>
 Senior software engineer (C++), tech. lead of special software department <br> 
 Research work including video, audio and general time-based signal acquisition, 
 processing and visualization for real-time control and diagnostics. <br>
@@ -101,10 +101,10 @@ image processing, data visualization.
 </dd></dl>
 
 <dl><dt>1989-1996</dt><dd>
-"Meda Ltd." <br> 
+Meda Ltd. <br> 
 Software engineer (C, C++), manager <br> 
 Development of the medical thermovision system including infrared camera and 
-software for IR image (video) aquisition, processing and visualization. <br>  
+software for IR image (video) acquisition, processing and visualization. <br>  
 Responsible for GUI, image processing and other tasks.  
 </dd></dl>
 
@@ -118,9 +118,10 @@ Computer physics (plasma modelling)
 
 <h2>Professional skills</h2>
 <h3>General</h3>
-<ul><li>Strong expertise in C/C++ programming;
+<ul>
+<li>Wide practical experience and knowledge of software development and production processes;
+</li><li>Strong expertise in C/C++ programming;
 </li><li>Strong expertise in embedded platforms, OS/RTOS, Java VM design and architecture, memory management, just-in-time compilers;  
-</li><li>Practical experience in release engeneering and development process establishing;  
 </li><li>Deep understanding of optimization techniques and issues;  
 </li><li>Deep understanding of the modern SW development tendencies and paradigms;  
 </li><li>Expertise in the signal and image processing algorithms;  
@@ -151,7 +152,7 @@ code segments".
 
 </li></ul><h2>Personal strengths</h2>
 <ul><li>Clear conceptual thinking, effective and practical problem decomposition and solving.
-</li><li>Goal oriented, focused on the practical goals, retrictions, deadlines, and so on.
+</li><li>Goal oriented, focused on the practical goals, restrictions, deadlines, and so on.
 </li><li>Creative approach in finding the effective technical solution.  
 </li><li>Ability to work effectively under the stress conditions.  
 </li><li>Good presentation and communication skills.  
