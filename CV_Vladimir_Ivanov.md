@@ -1,7 +1,5 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
+#h1 Vladimir Ivanov
 
-
-<h1>Vladimir Ivanov</h1>
 <h2>Summary</h2>
 <ul>
 <li>Over 25 years of experience in software development and engineering.</li>
