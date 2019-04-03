@@ -1,14 +1,4 @@
-<<<<<<< Updated upstream
-#h1 Vladimir Ivanov
-
-=======
-<<<<<<< Local Changes
 ## Vladimir Ivanov
-=======
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
->>>>>>> External Changes
-
-<<<<<<< Local Changes
 
 ### Summary ###
 
@@ -21,23 +11,6 @@
 
 1978 - 1984  
 Leningrad Polytechnical Institute (now St.Petersburg State Polytechnical University). 
-=======
-
-<h1>Vladimir Ivanov</h1>
->>>>>>> Stashed changes
-<h2>Summary</h2>
-<ul>
-<li>Over 25 years of experience in software development and engineering.</li>
-<li>Software developer, team lead and software architect. Providing technical leadership as well as individual contribution.</li> 
-<li>Specialties: Embedded systems, Java VM, JIT compilers, optimizing 
-compilers, Linux middleware, storage systems, distributed systems, image
- processing.</li>
-</ul> 
-
-<h2>Education</h2>
-<dl><dt>1978 - 1984</dt><dd>
-Leningrad Polytechnical Institute (now St.Petersburg State Polytechnical University) <br> 
->>>>>>> External Changes
 Department of Physics and Mechanics (MS in Physics, diploma with honor)  
 	
 1984 - 1987  
