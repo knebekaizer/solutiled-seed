@@ -5,10 +5,8 @@
 <h2>Summary</h2>
 <ul>
 <li>Over 25 years of experience in software development and engineering.</li>
-<li>Software developer, team lead and software architect. Providing technical leadership as well as individual contribution.</li> 
-<li>Specialties: Embedded systems, Java VM, JIT compilers, optimizing 
-compilers, Linux middleware, storage systems, distributed systems, image
- processing.</li>
+<li>Software developer, software architect, team lead and manager. Providing technical leadership as well as individual contribution.</li> 
+<li>Specialties: Embedded systems, Linux middleware, high load and high availability, distributed systems, storage systems, Java VM, JIT compilers, optimizing compilers.</li>
 </ul> 
 
 <h2>Education</h2>
@@ -20,19 +18,18 @@ Department of Physics and Mechanics (MS in Physics, diploma with honor)
 Leningrad Polytechnical Institute, <br>
 Postgraduate Studies, Dept. of Theoretical and Mathematical Physics  
 </dd></dl>
-<h2>Professional certificates</h2>
 
+<h2>Professional certificates</h2>
 <dl><dt>2000</dt><dd>
 Apple MacOS software developer <br>
 Apple system engineer  
 </dd></dl>
 
 <h2>Experience</h2>
-
 <dl><dt>May 2018 - present</dt><dd>
 Social Quantum (<a href="http://www.socialquantum.com/ target="_blank">http://www.socialquantum.com/</a>)<br>
 CTO<br>
-Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly responsible for Development, QA and IT departments. Migrating the company from custom processes and in-house solutions to the industrial standards: fixed and established production release cycle and relevant processes, launched CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing particular product group or department (sort of crisis management).
+Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly responsible for Development, QA and IT departments. Migrating the company from the custom processes and in-house solutions to the industrial standards. Namely, fixed and established production release cycle and relevant processes, launched CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing particular product group or department (sort of crisis management).
 </dd></dl>
 
 <dl><dt>Feb 2014 - May 2018</dt><dd>
@@ -165,8 +162,11 @@ virtualization, optimization, distributed systems,
 scalability, high availability, etc.  
 </li><li>Optimization for resource-constrained platforms and devices.  
 </li></ul>
-<p style="text-align:center">
-<a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a>  
-</p>
 
+<h2> Contacts</h2>
+<p>
+    email: <a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a> 
+</p><p>
+    Phone, Telegram, Whatsapp: +79219125274
+</p>
 </body></html>
