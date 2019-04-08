@@ -83,7 +83,6 @@ Cosmos VM project - software architect, project technical leader. <br>
 Design and prototyping of the innovative multitasking core Java VM (Motorola independent implementation) <br> 
 Responsible for overall design, coding of essential parts. 
 </li></ul><ul><li>2001 <br>
-
 Low Cost Architecture project - technical leader, developer. <br> 
 Design proposal and prototyping of the low-cost version of kJava VM. 
 </li></ul><ul><li>2000 <br> 
@@ -166,7 +165,7 @@ scalability, high availability, etc.
 <h2> Contacts</h2>
 <p>
     email: <a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a> 
-</p><p>
+    <br>
     Phone, Telegram, Whatsapp: +79219125274
 </p>
 </body></html>
