@@ -29,20 +29,28 @@ Apple system engineer
 <dl><dt>May 2018 - present</dt><dd>
 Social Quantum (<a href="http://www.socialquantum.com/ target="_blank">http://www.socialquantum.com/</a>)<br>
 CTO<br>
-Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly responsible for Development, QA and IT departments. Migrating the company from the custom processes and in-house solutions to the industrial standards. Namely, fixed and established production release cycle and relevant processes, launched CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing particular product group or department (sort of crisis management).
+Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions.
+Particularly responsible for Development, QA and IT departments. Migrating the company from the custom processes and in-house
+solutions to the industrial standards. Namely, fixed and established production release cycle and relevant processes, launched
+CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing
+particular product group or department (sort of crisis management).
 </dd></dl>
 
 <dl><dt>Feb 2014 - May 2018</dt><dd>
 Zodiac Interactive (<a href="http://www.zodiac.tv/" target="_blank">http://www.zodiac.tv/</a>)<br>
 RnD Director, architect.<br>
 Driving software production from design and implementation to release management and maintenance.<br>
-This includes customer communication with respect to requirement gathering, driving the architecture board, planning and estimations, code review and overseeing of solution consistency, quality assurance strategy, release preparation, occasional coding, prototyping or bug fixing. Supervised projects are varying from research and proof of the concept of front-edge technology to high profile production targeted to 10M end users. The current focus is on embedded Linux software, HTML5 stack for resource constrained devices, IP video, etc.
+This includes customer communication with respect to requirement gathering, driving the architecture board,
+planning and estimations, code review and overseeing of solution consistency, quality assurance strategy,
+release preparation, occasional coding, prototyping or bug fixing. Supervised projects are varying from research
+and proof of the concept of front-edge technology to high profile production targeted to 10M end users.
+The current focus is on embedded Linux software, HTML5 stack for resource constrained devices, IP video, etc.
 </dd></dl>
 
 <dl><dt>June 2013 - Feb 2014</dt><dd>
 Motorola Solutions<br>
 Principal staff engineer, Senior architect.<br>
-Push-to-talk Android client and server integration<br>
+Push-to-talk Android client and server integration.<br>
 Prototyping the distributed service based on peer-to-peer concept for fault tolerance and high performance data storage and processing (research project).
 </dd></dl>
 
@@ -54,62 +62,46 @@ Embedded systems, set top box, virtual machine, compiler, development tools and 
 </dd></dl>
 
 <dl><dt>2009 - 2011</dt><dd>
-Yandex (Russian IT company, the largest search engine in Russia)<br>
-Senior engineer, SW developer <br>
-Internet search related service development<br>
+Yandex (Russian IT company, the largest search engine in Russia).<br>
+Senior engineer, SW developer. <br>
+Internet search related service development: distributed data processing, monitoring, DBMS (MySQL).
 Responsible for the service backend architecture, implementation and maintenance (C++). <br>
-Distributed data processing, clusterization, monitoring, DBMS (MySQL).
+
 </dd></dl>
 
 <dl><dt>2007 - 2009</dt><dd>
 EMC<sup>2</sup> Center of Excellence, St.Petersburg, Russia <br>
-Principal engineer, team lead <br>
+Principal engineer, team lead. <br>
 Platform development for the perspective storage system: middleware, services, application framework. <br> 
 Responsible for component level design and coding, local team technical leadership (5 team members). 
 </dd></dl>
 <dl><dt>2000 - 2007</dt><dd>
-Motorola Software Group Russia <br> 
-
-Principal staff software engineer  
+Motorola Software Group Russia. <br> 
+From software engineer to principal staff software engineer.
 </dd></dl>
-<ul><li>2005-2007 <br>
-Java Engine Acceleration project - software architect, project technical leader. <br>
-Acceleration framework for embedded Java VM including high/mid-level 
+<ul><li>Java Engine Acceleration project: Acceleration framework for embedded Java VM including high/mid-level 
 optimizer, ahead-of-time and just-in-time compilers, optimized 
-interpreter, class caching and other acceleration-related components <br>
-Responsible for overall design, coding of class caching component, maintenance and redesign of the legacy components.  
-</li></ul><ul><li>2002-2004 <br>
-Cosmos VM project - software architect, project technical leader. <br>
-Design and prototyping of the innovative multitasking core Java VM (Motorola independent implementation) <br> 
-Responsible for overall design, coding of essential parts. 
-</li></ul><ul><li>2001 <br>
-Low Cost Architecture project - technical leader, developer. <br> 
-Design proposal and prototyping of the low-cost version of kJava VM. 
-</li></ul><ul><li>2000 <br> 
-JavaTV application - developer  
-</li></ul><dl><dt>1995 - 2000</dt><dd>
-Jupiter-Z <br>
-Senior software engineer (C++), tech. lead of special software department <br> 
+interpreter, class caching and other acceleration-related components. Architect and project technical leader. 
+</li><li>Cosmos VM project: Innovative multitasking embedded Java VM (Motorola independent implementation). Architect, project technical leader. Two patents granted in this area.
+</li><li>Low Cost Architecture project: Design proposal and prototyping of the low-cost version of kJava VM. Technical leader, developer. 
+</li><li>JavaTV application PoC, developer .
+</li></ul>
+<dl><dt>1995 - 2000</dt><dd>
+Jupiter-Z. Senior software engineer (C++), tech. lead.<br> 
 Research work including video, audio and general time-based signal acquisition, 
 processing and visualization for real-time control and diagnostics. <br>
-Responsible for architecture design, GUI, video and sound capturing, video and 
-image processing, data visualization.  
 </dd></dl>
 
 <dl><dt>1989-1996</dt><dd>
-Meda Ltd. <br> 
-Software engineer (C, C++), manager <br> 
+Meda Ltd. Software engineer (C, C++), manager <br> 
 Development of the medical thermovision system including infrared camera and 
-software for IR image (video) acquisition, processing and visualization. <br>  
-Responsible for GUI, image processing and other tasks.  
+image processing software.  
 </dd></dl>
 
 <dl><dt>1984-1990</dt><dd>
 Leningrad Polytechnical Institute, Dept. of Theoretical and Mathematical Physics <br>
 Postgraduate, engineer, researcher. <br>
 Computer physics (plasma modelling) 
-        
-        
 </dd></dl>
 
 <h2>Professional skills</h2>
@@ -145,8 +137,9 @@ code segments".
 <h3>Languages</h3>
 <ul><li>English: advanced to fluent
 </li><li>Elementary German, Finnish, Swedish
+</li></ul>
 
-</li></ul><h2>Personal strengths</h2>
+<h2>Personal strengths</h2>
 <ul><li>Clear conceptual thinking, effective and practical problem decomposition and solving.
 </li><li>Goal oriented, focused on the practical goals, restrictions, deadlines, and so on.
 </li><li>Creative approach in finding the effective technical solution.  
