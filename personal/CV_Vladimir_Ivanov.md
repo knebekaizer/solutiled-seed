@@ -28,12 +28,9 @@ Apple system engineer
 <h2>Experience</h2>
 <dl><dt>May 2018 - present</dt><dd>
 Social Quantum (<a href="http://www.socialquantum.com/ target="_blank">http://www.socialquantum.com/</a>)<br>
-CTO<br>
-Responsible for the general technical view of software production: processes, technology stack, fundamental technical solutions.
-Particularly responsible for Development, QA and IT departments. Migrating the company from the custom processes and in-house
-solutions to the industrial standards. Namely, fixed and established production release cycle and relevant processes, launched
-CI/CD department, started moving from in-house data pipeline to mature DWH stack, migrating to AWS, etc. Occasionally managing
-particular product group or department (sort of crisis management).
+<b>CTO, Architect</b><br>
+Responsible for general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly focused on establishing release cycle and relevant processes, CI/CD, DWH architecture, AWS migration, etc.<br>
+Development: designing and driving implementation of networking framework for multiplayer mobile game optimized for low latency synchronization between nodes (players) in poor or unstable network condition. Solution includes dynamic topology (switching from client-server to P2P to mesh) and experiments with adaptive FEC from naive XOR and LT to RaptorQ fountain codes.
 </dd></dl>
 
 <dl><dt>Feb 2014 - May 2018</dt><dd>
