@@ -36,19 +36,16 @@ Development: designing and driving implementation of networking framework for mu
 <dl><dt>Feb 2014 - May 2018</dt><dd>
 Zodiac Interactive (<a href="http://www.zodiac.tv/" target="_blank">http://www.zodiac.tv/</a>)<br>
 RnD Director, architect.<br>
-Driving software production from design and implementation to release management and maintenance.<br>
-This includes customer communication with respect to requirement gathering, driving the architecture board,
-planning and estimations, code review and overseeing of solution consistency, quality assurance strategy,
-release preparation, occasional coding, prototyping or bug fixing. Supervised projects are varying from research
-and proof of the concept of front-edge technology to high profile production targeted to 10M end users.
-The current focus is on embedded Linux software, HTML5 stack for resource constrained devices, IP video, etc.
+Driving software production from design and implementation to release management and maintenance. Particularly responsible for next generation stack architecture (HTML5 based).<br>
+Designed and occasionally fixed or implemented key components from front edge tasks to conservative legacy code maintenance.
+Supervised projects ranging from research and proof of the concept of front-edge technology to high profile production targeted to 10M end users. The current focus is on embedded Linux software, HTML5 stack for resource constrained devices, IP video, etc. 
 </dd></dl>
 
 <dl><dt>June 2013 - Feb 2014</dt><dd>
 Motorola Solutions<br>
 Principal staff engineer, Senior architect.<br>
 Push-to-talk Android client and server integration.<br>
-Prototyping the distributed service based on peer-to-peer concept for fault tolerance and high performance data storage and processing (research project).
+Prototyped the distributed service based on peer-to-peer concept for fault tolerance and high performance data storage and processing (research side project).
 </dd></dl>
 
 <dl><dt>July 2011 - June 2013</dt><dd>
