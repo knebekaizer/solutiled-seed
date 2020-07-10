@@ -1,2 +1,2 @@
 # solutiled-seed
-Pointless private notes and drafts
+Pointless notes and drafts
