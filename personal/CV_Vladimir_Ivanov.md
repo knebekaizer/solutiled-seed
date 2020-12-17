@@ -29,6 +29,7 @@ Apple system engineer
 
 <dl><dt>September 2019 - present</dt><dd>
 JetBrains (<a href="https://www.jetbrains.com/ target="_blank>https://www.jetbrains.com</a>)<br>
+Sr.engineer<br>
 Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin-native/ target="_blank>github</a> and personal (stalled)
 <a href="https://github.com/knebekaizer/kotlin-native/ target="_blank>fork</a>
 </dd></dl>
