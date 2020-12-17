@@ -28,15 +28,15 @@ Apple system engineer
 <h2>Experience</h2>
 
 <dl><dt>September 2019 - present</dt><dd>
-JetBrains (<a href="https://www.jetbrains.com/ target="_blank>https://www.jetbrains.com</a>)<br>
-Sr.engineer<br>
-Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin-native/ target="_blank>github</a> and personal (stalled)
-<a href="https://github.com/knebekaizer/kotlin-native/ target="_blank>fork</a>
+JetBrains (<a href="https://www.jetbrains.com/" target=_blank>https://www.jetbrains.com</a>)<br>
+Sr. engineer.<br>
+Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin-native/" target=_blank>github</a> and personal (stalled)
+<a href="https://github.com/knebekaizer/kotlin-native/" target=_blank>fork</a>
 </dd></dl>
 
 <dl><dt>May 2018 - August 2019</dt><dd>
-Social Quantum (<a href="http://www.socialquantum.com/ target="_blank>http://www.socialquantum.com</a>)<br>
-CTO, Architect<br>
+Social Quantum (<a href="http://www.socialquantum.com/" target=_blank>http://www.socialquantum.com</a>)<br>
+CTO, Architect.<br>
 Responsible for general technical view of software production: processes, technology stack, fundamental technical solutions. Particularly focused on establishing release cycle and relevant processes, CI/CD, DWH architecture, AWS migration, etc.<br>
 Development: designing and driving implementation of networking framework for multiplayer mobile game optimized for low latency synchronization between nodes (players) in poor or unstable network condition. Solution includes dynamic topology (switching from client-server to P2P to mesh) and experiments with adaptive FEC from naive XOR and LT to RaptorQ fountain codes.
 </dd></dl>
