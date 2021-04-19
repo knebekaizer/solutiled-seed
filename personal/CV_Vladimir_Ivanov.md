@@ -11,11 +11,11 @@
 
 <h2>Education</h2>
 <dl><dt>1978 - 1984</dt><dd>
-Leningrad Polytechnical Institute (now St.Petersburg State Polytechnical University) <br> 
+Leningrad Polytechnic Institute (now St. Petersburg Polytechnic University), <br> 
 Department of Physics and Mechanics (MS in Physics, diploma with honor)  
 </dd></dl>
 <dl><dt>1984 - 1987</dt><dd>
-Leningrad Polytechnical Institute, <br>
+Leningrad Polytechnic Institute, <br>
 Postgraduate Studies, Dept. of Theoretical and Mathematical Physics  
 </dd></dl>
 
@@ -30,7 +30,7 @@ Apple system engineer
 <dl><dt>September 2019 - present</dt><dd>
 JetBrains (<a href="https://www.jetbrains.com/" target=_blank>https://www.jetbrains.com</a>)<br>
 Sr. engineer.<br>
-Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin-native/" target=_blank>github</a> and personal (stalled)
+Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin" target=_blank>github</a> and personal
 <a href="https://github.com/knebekaizer/kotlin-native/" target=_blank>fork</a>
 </dd></dl>
 
@@ -126,8 +126,8 @@ Computer physics (plasma modelling)
 </li></ul>
 
 <h3>Programming languages</h3>
-<ul><li>Strong expertise in C/C++, Kotlin, Python, assembler;  
-</li><li>Experience in Java, JavaScript, sh/bash, Perl, SQL, XML, HTML/CSS up to HTML5 flavours, etc.  
+<ul><li>Strong expertise in C/C++, Kotlin, assemblers;  
+</li><li>Experience in Java,  Python, JavaScript, sh/bash, Perl, SQL, XML, HTML/CSS up to HTML5 flavours, etc.  
 </li></ul>
 
 <h3>Publications and patents</h3>
