@@ -11,7 +11,7 @@
 
 <h2>Education</h2>
 <dl><dt>1978 - 1984</dt><dd>
-Leningrad Polytechnic Institute (now St. Petersburg Polytechnic University), <br> 
+Leningrad Polytechnic Institute (now Peter the Great St. Petersburg Polytechnic University), <br> 
 Department of Physics and Mechanics (MS in Physics, diploma with honor)  
 </dd></dl>
 <dl><dt>1984 - 1987</dt><dd>
@@ -31,7 +31,7 @@ Apple system engineer
 JetBrains (<a href="https://www.jetbrains.com/" target=_blank>https://www.jetbrains.com</a>)<br>
 Sr. engineer.<br>
 Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin" target=_blank>github</a> and personal
-<a href="https://github.com/knebekaizer/kotlin-native/" target=_blank>fork</a>
+<a href="https://github.com/knebekaizer/kotlin-native/" target=_blank>fork</a> (obsolete)
 </dd></dl>
 
 <dl><dt>May 2018 - August 2019</dt><dd>
