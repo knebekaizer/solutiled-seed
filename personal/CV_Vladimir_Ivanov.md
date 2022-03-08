@@ -27,7 +27,13 @@ Apple system engineer
 
 <h2>Experience</h2>
 
-<dl><dt>September 2019 - present</dt><dd>
+<dl><dt>December 2021 - present</dt><dd>
+Biopic<br>
+Sr. Architect.<br>
+Medical information platform
+</dd></dl>
+
+<dl><dt>September 2019 - December 2021</dt><dd>
 JetBrains (<a href="https://www.jetbrains.com/" target=_blank>https://www.jetbrains.com</a>)<br>
 Sr. engineer.<br>
 Project Kotlin/Native: <a href="https://github.com/JetBrains/kotlin" target=_blank>github</a> and personal
