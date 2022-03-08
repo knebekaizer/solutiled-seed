@@ -168,9 +168,8 @@ scalability, high availability, etc.
 </li></ul>
 
 <h2> Contacts</h2>
-<p>
-    email: <a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a> 
-    <br>
-    Phone, Telegram, Whatsapp: +79219125274
-</p>
+<ul><li>Email: <a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a>
+</li><li>Telegram: @knebekaizer
+</li><li>Phone, Telegram, Whatsapp: +79219125274 
+</li></ul>
 </body></html>
