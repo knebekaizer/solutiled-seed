@@ -19,15 +19,15 @@ Leningrad Polytechnic Institute, <br>
 Postgraduate Studies, Dept. of Theoretical and Mathematical Physics  
 </dd></dl>
 
-<h2>Professional certificates</h2>
-<dl><dt>2000</dt><dd>
-Apple MacOS software developer <br>
-Apple system engineer  
-</dd></dl>
-
 <h2>Experience</h2>
 
-<dl><dt>December 2021 - present</dt><dd>
+<dl><dt>April 2022 - present</dt><dd>
+JettyCloud, Georgia<br>
+Team lead<br>
+Communications  (<a href="https://www.ringcentral.com/" target=_blank>https://www.ringcentral.com</a>)
+</dd></dl>
+
+<dl><dt>December 2021 - February 2022</dt><dd>
 Biopic<br>
 Sr. Architect.<br>
 Medical information platform
@@ -147,7 +147,7 @@ code segments".
 </li></ul>
 
 <h3>Languages</h3>
-<ul><li>English: advanced to fluent
+<ul><li>English: Upper intermediate (B2)
 </li><li>Elementary German, Finnish, Swedish
 </li></ul>
 
@@ -170,6 +170,7 @@ scalability, high availability, etc.
 <h2> Contacts</h2>
 <ul><li>Email: <a href="mailto:Vladimir.D.Ivanov@gmail.com" target="_blank">Vladimir.D.Ivanov@gmail.com</a>
 </li><li>Telegram: @knebekaizer
-</li><li>Phone, Telegram, Whatsapp: +79219125274 
+</li><li>Phone: +995591811534
+</li><li>Telegram, Whatsapp: +79219125274 
 </li></ul>
 </body></html>
