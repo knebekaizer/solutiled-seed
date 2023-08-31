@@ -133,7 +133,7 @@ Computer physics (plasma modelling)
 
 <h3>Programming languages</h3>
 <ul><li>Strong expertise in C/C++, Kotlin, assemblers;  
-</li><li>Experience in Java,  Python, JavaScript, sh/bash, Perl, SQL, XML, HTML/CSS up to HTML5 flavours, etc.  
+</li><li>Experience in Java,  Python, JavaScript, sh/bash, Perl, SQL, XML, HTML/CSS, etc.  
 </li></ul>
 
 <h3>Publications and patents</h3>
@@ -152,7 +152,7 @@ code segments".
 </li></ul>
 
 <h2>Personal strengths</h2>
-<ul><li>Clear conceptual thinking, effective and practical problem decomposition and solving.
+<ul><li>Clear conceptual thinking, effective and practical problem decomposing and solving.
 </li><li>Goal oriented, focused on the practical goals, restrictions, deadlines.
 </li><li>Creative approach in finding the effective technical solution.  
 </li><li>Ability to work effectively under the stress conditions.  
